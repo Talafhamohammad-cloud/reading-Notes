@@ -1,0 +1,1 @@
+this part is talking about definition of markdown and what its exactly doing with syntax , with some examples showing the difference with and without markdown , and the video was talking about the benefits of GitHub and GitHub pages ,the last part of this reading talking about some of basic writing format and some of tips also for simple writing . 
