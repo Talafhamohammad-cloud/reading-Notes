@@ -1,0 +1,5 @@
+# READING 11 SUMMERY
+
+the first part of this reading is came from html book chapter 16 which is all about the images and what we can do for them using CSS and its fetures for example the width and the positions and the size of it  or the dimension and alligned the images  verticaly or horizontaly using CSS also and how we can make an image as background for an element and creating roolover effect and the last part about minimizing the number of images to be uploded in the browser usingimage sprites.
+***the second part of reading***
+**its refer to chapter 19 from the same book  its information about hwo we can up;ode our site to the web and using google analytic to analyze the number of visitors on this website and hwo the user can find my website using search engine , and using  FTP programs to let us uplode files and folder from our machine locally to our webpage and also there is a lot companies provide forms and platform for alot of things to do to save our time and not doing every thing from scratch.**
