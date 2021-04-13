@@ -38,6 +38,6 @@
 |class-11              |[11th Assigment](201/class-11)             |
 |class-12              |[12th Assigment](201/class-12)             |
 |class-13              |[13th Assigment](201/class-13)             |
-|class-13b             |[13bth  Assigment](201/class-13b)          |
+|class-13b             |[13th-b  Assigment](201/class-13b)         |
 |class-14              |[14th  Assigment](201/class-14)            |
 |class-15              |[15th  Assigment](201/class-15)            |
