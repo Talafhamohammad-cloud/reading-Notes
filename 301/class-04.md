@@ -1,7 +1,8 @@
 ## What is a ‘Controlled Component’?
 
 In React, mutable state is typically kept in the state property of components, and only updated with setState(). We can combine the two by making the React state be the “single source of truth”. Then the React component that renders a form also controls what happens in that form on subsequent user input. An input form element whose value is controlled by React in this way is called a “controlled component”.
-## Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
+
+## Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why
 
 Since the value attribute is set on our form element, the displayed value will always be this.state.value, making the React state the source of truth. Since handleChange runs on every keystroke to update the React state, the displayed value will update as the user types.
 
@@ -17,7 +18,8 @@ If you’re looking for a complete solution including validation, keeping track 
 
 Shorten your if statements into one line of code with the conditional operator
 
-## Rewrite the following statement using a ternary statement:
+## Rewrite the following statement using a ternary statement
+
   if(x===y){
  console.log(true);
   } else {
