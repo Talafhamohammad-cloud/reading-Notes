@@ -30,7 +30,7 @@ You can build top-down or bottom-up. it’s usually easier to go top-down, and o
 
 3- Can you compute it based on any other state or props in your component? If so, it isn’t state.
 #############################################################################
-## SSHow can you identify where state needs to live?
+## How can you identify where state needs to live?
 
 For each piece of state in your application:
 
